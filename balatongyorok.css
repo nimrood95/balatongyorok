@@ -17,3 +17,20 @@ body{
 #cimer{
     float: right
 }
+
+h1{
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+#bal{
+    width: 450px;
+    background-color: #5B9CEA;
+    float: left;
+}
+
+#jobb{
+    width: 450px;
+    background-color: #5B9CEA;
+    float: right;
+}
