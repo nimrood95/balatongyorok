@@ -1,0 +1,19 @@
+body{
+    background-image: url(back.jpg);
+}
+
+#keret{
+    width: 1000px;
+    margin: auto;
+}
+
+#header{
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url(panorama.jpg);
+    height: 220px;
+}
+
+#cimer{
+    float: right
+}
